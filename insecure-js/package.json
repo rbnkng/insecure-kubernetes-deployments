@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@aikidosec/firewall": "^1.5.47",
+    "@aikidosec/firewall": "^1.7.4",
     "@babel/core": "7.0.0-rc.1",
     "chart.js": "2.8.0",
     "chartist": "0.3.0",
