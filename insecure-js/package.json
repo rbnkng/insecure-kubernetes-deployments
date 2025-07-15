@@ -3,7 +3,7 @@
     "@aikidosec/firewall": "^1.5.47",
     "@babel/core": "7.0.0-rc.1",
     "chart.js": "2.8.0",
-    "chartist": "0.3.0",
+    "chartist": "0.11.4",
     "dom-iterator": "^1.0.0",
     "jquery": "2.1.0",
     "lodash": "4.16.1",
