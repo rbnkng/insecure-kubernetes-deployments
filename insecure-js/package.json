@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@aikidosec/firewall": "^1.5.47",
-    "@babel/core": "7.0.0-rc.1",
+    "@babel/core": "7.27.4",
     "chart.js": "2.8.0",
     "chartist": "0.3.0",
     "dom-iterator": "^1.0.0",
