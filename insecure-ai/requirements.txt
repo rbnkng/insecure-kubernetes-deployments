@@ -6,3 +6,4 @@ markdown==3.5.2
 graphviz==0.20.1
 gunicorn==23.0.0
 openai>=1.0.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
